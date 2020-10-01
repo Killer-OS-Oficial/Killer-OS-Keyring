@@ -1,6 +1,6 @@
 pkgname=killer-os-keyring
 pkgver=stable
-pkgrel=1
+pkgrel=2
 pkgdesc='Killer-OS PGP Keyring'
 arch=('x86_64')
 url='https://github.com/Killer-OS-Oficial/Killer-OS-Keyring'
